@@ -96,6 +96,7 @@ AndroidTrivia/
 
 ## 🙏 致谢
 
+- 感谢所有开源项目贡献者
 - 感谢AndroidTrivia原始项目[https://github.com/Srihitha18798/AndroidTrivia]
 - 基于以下优秀的开源测试框架构建：
   - JUnit - 单元测试标准
